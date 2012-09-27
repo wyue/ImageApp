@@ -1,9 +1,17 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
 
-# Project property files
-.actionScriptProperties
-.flexProperties
-.settings/
-.project
+pids
+logs
+results
+
+node_modules
+npm-debug.log
+.idea
+.DS_Store
